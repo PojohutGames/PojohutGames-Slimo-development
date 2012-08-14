@@ -1,0 +1,1 @@
+hello this is the readme for slimo project developed by the pojohut team in mountgambier :P
